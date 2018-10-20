@@ -1,7 +1,9 @@
-## Research
+# Research
 * [Simulating rare events: Hawkes process applied to Twitter](https://hal.archives-ouvertes.fr/hal-01875943/document).
 Yassine El Maazouz, Mohammed Amine Bennouna. Simulating rare events: Hawkes process applied
 to Twitter. [Research Report] Ecole polytechnique X. 2018. <hal-01875943>
+
+
 
 
 ### Markdown
