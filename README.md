@@ -11,6 +11,6 @@ to Twitter. [Research Report] Ecole polytechnique X. 2018. <hal-01875943>
 ## For CPGE students
 Here are some courses summaries I made that might help you: [Fiches de cours](MohammedAmine-Bennouna.github.io/Fiches de cours - Amine Bennouna.7z).
 
-## For hightschool students preparing IMO
-Moroccan IMO alumis founded an organization Math&Maroc to help you train for IMO, visit www.mathemaroc.com for more information.
+## For highschool students preparing IMO
+Moroccan IMO alumis founded an organization Math&Maroc to help you train for IMO, visit [www.mathemaroc.com](www.mathemaroc.com) for more informations.
 You can in particular find courses I wrote [here](http://mathemaroc.com/) (in french).
