@@ -1,4 +1,7 @@
-# Research
+I am currently a third year student in Ecole Polytechnique (MS in Applied Mathematics). Prior to joining Ecole Polytechnique, I completed two years of preparatory program (CPGE) in Lycée Louis-le-Grand.
+
+## Research Projects
+* Exotic barrier functions and interior point methods complexity, _in progress_
 * [Simulating rare events: Hawkes process applied to Twitter](https://hal.archives-ouvertes.fr/hal-01875943/document).
 Yassine El Maazouz, Mohammed Amine Bennouna. Simulating rare events: Hawkes process applied
 to Twitter. [Research Report] Ecole polytechnique X. 2018. <hal-01875943>
@@ -6,34 +9,3 @@ to Twitter. [Research Report] Ecole polytechnique X. 2018. <hal-01875943>
 
 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MohammedAmine-Bennouna/MohammedAmine-Bennouna.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
