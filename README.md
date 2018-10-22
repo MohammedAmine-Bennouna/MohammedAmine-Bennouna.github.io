@@ -1,4 +1,4 @@
-I am currently a third year student at Ecole Polytechnique (MS in Applied Mathematics). Prior to joining Ecole Polytechnique, I completed two years of preparatory program (CPGE) in Lycée Louis-le-Grand. You can find my [CV](MohammedAmine-Bennouna.github.io/Cv Academic Mohammed Amine Bennouna.pdf) here.    
+I am currently a third year student at Ecole Polytechnique (MS in Applied Mathematics). Prior to joining Ecole Polytechnique, I completed two years of preparatory program (CPGE) in Lycée Louis-le-Grand. You can find my [CV](MohammedAmine-Bennouna.github.io/Cv Mohammed Amine Bennouna.pdf) here.    
 
 ## Research Projects
 * Exotic barrier functions and interior point methods complexity, _in progress_
