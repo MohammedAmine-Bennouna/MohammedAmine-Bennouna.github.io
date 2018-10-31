@@ -1,5 +1,6 @@
 I am currently a third year student at Ecole Polytechnique Majoring in Applied Mathematics. Prior to joining Ecole Polytechnique, I completed two years of preparatory program (CPGE) in Lycée Louis-le-Grand. You can find my [CV](MohammedAmine-Bennouna.github.io/Cv Mohammed Amine Bennouna.pdf) here.    
-My ambition is to pursue a PhD in Operations research next year. My interests include robust optimization, assortment problems and descision making.
+My ambition is to pursue a PhD in Operations Research next year.
+
 
 ## Research Projects
 * [Exotic barrier functions and interior point methods complexity](), _in progress_
@@ -23,9 +24,9 @@ _Advisors: Flore Nabet & Aimsun_
 
 
 
-## For highschool students preparing IMO
-Moroccan IMO alumis founded an organization Math&Maroc to help you train for International Mathematical Olympiad (IMO), visit [www.mathemaroc.com](www.mathemaroc.com) for more informations.
-You can in particular find courses I wrote [here](http://mathemaroc.com/) (in french).
+## For highschool students preparing International Mathematic
+We founded an organization Math&Maroc with previous IMO contestants to help you train for International Mathematical Olympiad (IMO), visit [www.mathemaroc.com](www.mathemaroc.com) for more informations.
+You can in particular find courses I wrote [here](http://mathemaroc.com/Publications) (in french).
 
 
 ## For CPGE students
