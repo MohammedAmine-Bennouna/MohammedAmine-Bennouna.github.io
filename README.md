@@ -1,4 +1,4 @@
-I am currently a third year student at Ecole Polytechnique Majoring in Applied Mathematics. Prior to joining Ecole Polytechnique, I completed two years of preparatory program (CPGE) in Lycée Louis-le-Grand. You can find my [CV](MohammedAmine-Bennouna.github.io/Cv Mohammed Amine Bennouna.pdf) here.    
+I am currently a third year student at Ecole Polytechnique Majoring in Applied Mathematics. Prior to joining Ecole Polytechnique, I completed two years of preparatory program (CPGE) in Lycée Louis-le-Grand. You can find my [CV](MohammedAmine-Bennouna.github.io/Cv Academic Mohammed Amine Bennouna.pdf) here.    
 My ambition is to pursue a PhD in Operations Research next year.
 
 
@@ -10,12 +10,12 @@ This work is the continuity of the following [paper](https://arxiv.org/abs/1708.
   - Experimenting new barriers for more eﬃcient algorithms.
  
 * [**Simulating rare events: Hawkes process applied to Twitter**](https://hal.archives-ouvertes.fr/hal-01875943/document). 
-(Hal paper ref: hal-01875943). _Advisors: Emmanuel Gobet & Martin Bompaire_.
+([Hal paper ref: hal-01875943](https://hal.archives-ouvertes.fr/hal-01875943/document)). _Advisors: Emmanuel Gobet & Martin Bompaire_.
   - Developed a Hawkes process model to describe the frequency of twitter messages.  
   - Estimated rare event probability using Importance Sampling and Monte Carlo Methods.
   - Estimated the model parameters using likelihood maximization.
 
-* [**Traﬃc ﬂow optimization**](https://github.com/MohammedAmine-Bennouna/Traffic-opt-Aimsun)
+* [**Traﬃc ﬂow optimization**](https://github.com/MohammedAmine-Bennouna/Traffic-opt-Aimsun) ([Github codes]](https://github.com/MohammedAmine-Bennouna/Traffic-opt-Aimsun))
 _Advisors: Flore Nabet & Aimsun_ 
   - Implemented a simulation-based optimization algorithm that optimizes traﬃc ﬂow by adjusting traﬃc control devices.
   - Combined approaches based on meta-models, queuing models and Aimsun traﬃc simulation
