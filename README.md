@@ -3,16 +3,14 @@ My ambition is to pursue a PhD in Operations Research next year.
 
 
 ## Research Projects
-* [Exotic barrier functions and interior point methods complexity](), _in progress_
-_Advisors: Stéphane Gaubert & Xavier Allamigeon_
+* [Exotic barrier functions and interior point methods complexity](), (_in progress_)
+_Advisors: Stéphane Gaubert & Xavier Allamigeon_.
 This work is the continuity of the following [paper](https://arxiv.org/abs/1708.01544).
   - Working on a counter-example of strong polynomial complexity.
   - Experimenting new barriers for more eﬃcient algorithms.
  
-* [Simulating rare events: Hawkes process applied to Twitter](https://hal.archives-ouvertes.fr/hal-01875943/document).
-Yassine El Maazouz, Mohammed Amine Bennouna. Simulating rare events: Hawkes process applied
-to Twitter. [Research Report] Ecole polytechnique X. 2018. <hal-01875943>
-  
+* [Simulating rare events: Hawkes process applied to Twitter](https://hal.archives-ouvertes.fr/hal-01875943/document). 
+(Hal paper ref: hal-01875943). _Advisors: Emmanuel Gobet & Martin Bompaire_.
   - Developed a Hawkes process model to describe the frequency of twitter messages.  
   - Estimated rare event probability using Importance Sampling and Monte Carlo Methods.
   - Estimated the model parameters using likelihood maximization.
@@ -24,8 +22,8 @@ _Advisors: Flore Nabet & Aimsun_
 
 
 
-## For highschool students preparing International Mathematic
-We founded an organization Math&Maroc with previous IMO contestants to help you train for International Mathematical Olympiad (IMO), visit [www.mathemaroc.com](www.mathemaroc.com) for more informations.
+## For highschool students preparing IMO
+We founded an organization Math&Maroc with previous International Mathematical Olympiad (IMO) contestants to help you train for IMO, visit [www.mathemaroc.com](www.mathemaroc.com) for more informations.
 You can in particular find courses I wrote [here](http://mathemaroc.com/Publications) (in french).
 
 
