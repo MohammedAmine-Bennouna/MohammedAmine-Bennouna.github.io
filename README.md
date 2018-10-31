@@ -15,7 +15,7 @@ This work is the continuity of the following [paper](https://arxiv.org/abs/1708.
   - Estimated rare event probability using Importance Sampling and Monte Carlo Methods.
   - Estimated the model parameters using likelihood maximization.
 
-* [**Traﬃc ﬂow optimization**](https://github.com/MohammedAmine-Bennouna/Traffic-opt-Aimsun) ([Github codes]](https://github.com/MohammedAmine-Bennouna/Traffic-opt-Aimsun))
+* [**Traﬃc ﬂow optimization**](https://github.com/MohammedAmine-Bennouna/Traffic-opt-Aimsun) ([Github codes](https://github.com/MohammedAmine-Bennouna/Traffic-opt-Aimsun))
 _Advisors: Flore Nabet & Aimsun_ 
   - Implemented a simulation-based optimization algorithm that optimizes traﬃc ﬂow by adjusting traﬃc control devices.
   - Combined approaches based on meta-models, queuing models and Aimsun traﬃc simulation
