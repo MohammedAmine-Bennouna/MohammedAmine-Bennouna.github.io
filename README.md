@@ -3,7 +3,7 @@ My ambition is to pursue a PhD in Operations Research next year.
 
 
 ## Research Projects
-* [Exotic barrier functions and interior point methods complexity](), (_in progress_)
+* Exotic barrier functions and interior point methods complexity, (_in progress_)
 _Advisors: Stéphane Gaubert & Xavier Allamigeon_.
 This work is the continuity of the following [paper](https://arxiv.org/abs/1708.01544).
   - Working on a counter-example of strong polynomial complexity.
