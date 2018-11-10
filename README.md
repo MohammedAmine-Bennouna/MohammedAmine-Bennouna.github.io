@@ -9,8 +9,8 @@ This work is the continuity of the following [paper](https://arxiv.org/abs/1708.
   - Working on a counter-example of strong polynomial complexity.
   - Experimenting new barriers for more eﬃcient algorithms.
  
-* [**Simulating rare events: Hawkes process applied to Twitter**](https://hal.archives-ouvertes.fr/hal-01875943/document). 
-([Hal paper ref: hal-01875943](https://hal.archives-ouvertes.fr/hal-01875943/document)). _Advisors: Emmanuel Gobet & Martin Bompaire_.
+* [**Simulating rare events: Hawkes process applied to Twitter**](Simulating-rare-events-Hawkes-process/Report.pdf). 
+([Hal paper ref: hal-01875943](Simulating-rare-events-Hawkes-process/Report.pdf)). _Advisors: Emmanuel Gobet & Martin Bompaire_.
   - Developed a Hawkes process model to describe the frequency of twitter messages.  
   - Estimated rare event probability using Importance Sampling and Monte Carlo Methods.
   - Estimated the model parameters using likelihood maximization.
