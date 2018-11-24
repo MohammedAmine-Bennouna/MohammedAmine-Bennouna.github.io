@@ -1,4 +1,4 @@
-I am currently a third year student at Ecole Polytechnique Majoring in Applied Mathematics. Prior to joining Ecole Polytechnique, I completed two years of preparatory program (CPGE) in Lycée Louis-le-Grand. You can find my [CV](MohammedAmine-Bennouna.github.io/Cv Academic Mohammed Amine Bennouna.pdf) here.    
+I am currently a third year student at [Ecole Polytechnique](https://en.wikipedia.org/wiki/%C3%89cole_Polytechnique) Majoring in Applied Mathematics. Prior to joining Ecole Polytechnique, I completed two years of preparatory program (CPGE) in [Lycée Louis-le-Grand](https://en.wikipedia.org/wiki/Lyc%C3%A9e_Louis-le-Grand). You can find my [CV](MohammedAmine-Bennouna.github.io/Cv Academic Mohammed Amine Bennouna.pdf) here.    
 My ambition is to pursue a PhD in Operations Research next year.
 
 
