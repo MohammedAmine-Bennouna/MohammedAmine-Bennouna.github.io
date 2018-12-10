@@ -7,7 +7,7 @@ My ambition is to pursue a PhD in Operations Research next year.
 _Advisors: Stéphane Gaubert & Xavier Allamigeon_.
 This work is the continuity of the following [paper](https://arxiv.org/abs/1708.01544).
   - Working on a counter-example of strong polynomial complexity.
-  - Experimenting new barriers for more eﬃcient algorithms.
+  - Extending the result for new barriers.
  
 * [**Simulating rare events: Hawkes process applied to Twitter**](MohammedAmine-Bennouna.github.io/SNA reaserch report.pdf). 
 ([Hal paper ref: hal-01875943](MohammedAmine-Bennouna.github.io/SNA reaserch report.pdf)). _Advisors: Emmanuel Gobet & Martin Bompaire_.
