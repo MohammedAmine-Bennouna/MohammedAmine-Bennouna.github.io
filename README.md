@@ -23,7 +23,7 @@ _Advisors: Flore Nabet & Aimsun_
 
 
 ## For highschool students preparing IMO
-We founded an organization Math&Maroc with previous International Mathematical Olympiad (IMO) contestants to help you train for IMO, visit [www.mathemaroc.com](www.mathemaroc.com) for more informations.
+We founded an organization Math&Maroc with previous International Mathematical Olympiad (IMO) contestants to help you train for IMO, visit [www.mathemaroc.com](http://www.mathemaroc.com) for more informations.
 You can in particular find courses I wrote [here](http://mathemaroc.com/Publications).
 
 
