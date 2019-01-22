@@ -31,6 +31,6 @@ You can in particular find courses I wrote [here](http://mathemaroc.com/Publicat
 
 ## For CPGE students
 Here are some courses summaries I made that might help you: [Fiches de cours](MohammedAmine-Bennouna.github.io/Fiches de cours - Amine Bennouna.7z).
-You can also find my prépa reaserch report (TIPE) about Prince Rupert's Drop [here](MohammedAmine-Bennouna.github.io/La Goutte Du Prince Rupert - Dossier.pdf).
+You can also find my prépa research report (TIPE) about Prince Rupert's Drop [here](MohammedAmine-Bennouna.github.io/La Goutte Du Prince Rupert - Dossier.pdf).
 
       
