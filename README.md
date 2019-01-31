@@ -26,7 +26,7 @@ _Advisors: Flore Nabet & Aimsun_
 
 ## For highschool students preparing IMO
 We founded an organization Math&Maroc with previous International Mathematical Olympiad (IMO) contestants to help you train for IMO, visit [www.mathemaroc.com](http://www.mathemaroc.com) for more informations.
-You can in particular find courses I wrote [here](http://mathemaroc.com/Publications).
+You can in particular find courses I wrote on the publication section. [Here](http://www.mathemaroc.com/journal/MatheMarocNo3Vol12017.pdf) is one of them!
 
 
 ## For CPGE students
