@@ -3,7 +3,7 @@ My ambition is to pursue a PhD in Operations Research next year.
 
 
 ## Research Projects
-* **Random minimal facotrisation of an n-cycle and its connection with the theory of graphs**, (_in progress_) _Advisor: Igor Kortchemski_.
+* **Random minimal facotrization of an n-cycle and its connection with the theory of graphs**, (_in progress_) _Advisor: Igor Kortchemski_.
 
 * [**Exotic barrier functions and interior point methods complexity**](MohammedAmine-Bennouna.github.io/Report - Experimental verification  log-barrier interior pointmethods are not strongly polynomial.pdf), (_in progress_) ([mid-term report](MohammedAmine-Bennouna.github.io/Report - Experimental verification  log-barrier interior pointmethods are not strongly polynomial.pdf))
 _Advisors: Stéphane Gaubert & Xavier Allamigeon_.
