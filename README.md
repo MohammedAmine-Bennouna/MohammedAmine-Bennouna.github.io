@@ -1,8 +1,8 @@
-I am currently a third year student at [Ecole Polytechnique](https://en.wikipedia.org/wiki/%C3%89cole_Polytechnique) Majoring in Applied Mathematics. Prior to joining Ecole Polytechnique, I completed two years of preparatory program (CPGE) in [Lycée Louis-le-Grand](https://en.wikipedia.org/wiki/Lyc%C3%A9e_Louis-le-Grand). You can find my [CV](MohammedAmine-Bennouna.github.io/Cv Academic Mohammed Amine Bennouna.pdf) here.    
-Next year, I will be a Ph.D. student in Operations Research at the Massachusetts Institute of Technology.
-
+I am a first year Ph.D. student in Operations Research at the Massachusetts Institute of Technology, advised by Prof. Georgia Perakis. Prior to joining MIT, I graduated from [Ecole Polytechnique](https://en.wikipedia.org/wiki/%C3%89cole_Polytechnique) Majoring in Applied Mathematics. Before joining Ecole Polytechnique, I completed two years of preparatory program (CPGE) in [Lycée Louis-le-Grand](https://en.wikipedia.org/wiki/Lyc%C3%A9e_Louis-le-Grand). You can find my [CV](MohammedAmine-Bennouna.github.io/Cv Academic Mohammed Amine Bennouna.pdf) here.    
 
 ## Research Projects
+* **Near-optimal Threshold Policies via Lifted Linear Decision Rules**, (_in progress_) _with Omar El Housni & Vineet Goyal.
+
 * **Random minimal facotrization of an n-cycle and its connection with the theory of graphs**, (_in progress_) _Advisor: Igor Kortchemski_.
 
 * [**Exotic barrier functions and interior point methods complexity**](MohammedAmine-Bennouna.github.io/Report - Experimental verification  log-barrier interior pointmethods are not strongly polynomial.pdf), (_in progress_) ([mid-term report](MohammedAmine-Bennouna.github.io/Report - Experimental verification  log-barrier interior pointmethods are not strongly polynomial.pdf))
