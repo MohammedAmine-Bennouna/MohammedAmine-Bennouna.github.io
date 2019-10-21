@@ -4,7 +4,7 @@ I am a first year Ph.D. student in Operations Research at the Massachusetts Inst
 * **Near-optimal Threshold Policies via Lifted Linear Decision Rules**, (_in progress_) _with Omar El Housni & Vineet Goyal_.
 
 ## Research Projects
-* [**Random minimal facotrization of an n-cycle and its connection with the theory of graphs**](Random_minimal_factorisations_of_large_n_cycles.pdf), _Advisor: Igor Kortchemski_.
+* [**Random minimal facotrization of an n-cycle and its connection with the theory of graphs**](Random_minimal_factorisations_of_large_n_cycles.pdf) ([report](Random_minimal_factorisations_of_large_n_cycles.pdf)], _Advisor: Igor Kortchemski_.
 
 * [**Exotic barrier functions and interior point methods complexity**](MohammedAmine-Bennouna.github.io/Report - Experimental verification  log-barrier interior pointmethods are not strongly polynomial.pdf), (_in progress_) ([mid-term report](MohammedAmine-Bennouna.github.io/Report - Experimental verification  log-barrier interior pointmethods are not strongly polynomial.pdf))
 _Advisors: Stéphane Gaubert & Xavier Allamigeon_.
