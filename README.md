@@ -6,7 +6,7 @@ I am a first year Ph.D. student in Operations Research at the Massachusetts Inst
 ## Research Projects
 * [**On random minimal factorizations of large n-cycles**](Random_minimal_factorisations_of_large_n_cycles.pdf) ([report](Random_minimal_factorisations_of_large_n_cycles.pdf)), _Advisor: Igor Kortchemski_.
 
-* [**Exotic barrier functions and interior point methods complexity**](MohammedAmine-Bennouna.github.io/Report - Experimental verification  log-barrier interior pointmethods are not strongly polynomial.pdf), (_in progress_) ([mid-term report](MohammedAmine-Bennouna.github.io/Report - Experimental verification  log-barrier interior pointmethods are not strongly polynomial.pdf))
+* [**Log-barrier interior point methods are not strongly polynomial**](MohammedAmine-Bennouna.github.io/Report - Experimental verification  log-barrier interior pointmethods are not strongly polynomial.pdf),([report](MohammedAmine-Bennouna.github.io/Report - Experimental verification  log-barrier interior pointmethods are not strongly polynomial.pdf))
 _Advisors: Stéphane Gaubert & Xavier Allamigeon_.
 This work is the continuity of the following [paper](https://arxiv.org/abs/1708.01544).
   - Working on a counter-example of strong polynomial complexity.
