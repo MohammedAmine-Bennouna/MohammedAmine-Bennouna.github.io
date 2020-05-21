@@ -13,7 +13,7 @@ Winner of Ecole Polytechnique's Grand Prize of research internship.
 _with Yassine El Maazouz, Stéphane Gaubert & Xavier Allamigeon_.
 This work is the continuity of the following [paper](https://arxiv.org/abs/1708.01544).
  
-* [**Simulating rare events: Hawkes process applied to Twitter**](MohammedAmine-Bennouna.github.io/SNA reaserch report.pdf). 
+* [**Simulating rare events with Hawkes processes**](MohammedAmine-Bennouna.github.io/SNA reaserch report.pdf). 
 ([see](MohammedAmine-Bennouna.github.io/SNA reaserch report.pdf)). _Advisors: with Yassine El Maazouz, Emmanuel Gobet & Martin Bompaire_.
 
 
