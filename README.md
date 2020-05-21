@@ -4,7 +4,6 @@ I am a first year Ph.D. student in Operations Research at the Massachusetts Inst
 * **Feature-based PAC learning of minimal representation of an MDP from transition data**, _with Dessislava  Pachamanova, Georgia Perakis, Omar Skali Lami_.
  
 * **Near optimal tractable treshold policies for two-stage robust optimization problems**, (_Soon to be submitted_) _with Omar El Housni & Vineet Goyal_. 
-
 Winner of Ecole Polytechnique's Grand Prize of research internship.
 
 ## Research Projects
