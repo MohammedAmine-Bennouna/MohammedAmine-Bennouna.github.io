@@ -15,7 +15,7 @@ with Yassine El Maazouz, Stéphane Gaubert & Xavier Allamigeon_.
 This work is the continuity of the following [paper](https://arxiv.org/abs/1708.01544).
  
 * [**Simulating rare events: Hawkes process applied to Twitter**](MohammedAmine-Bennouna.github.io/SNA reaserch report.pdf). 
-([See](MohammedAmine-Bennouna.github.io/SNA reaserch report.pdf)). _Advisors: with Yassine El Maazouz, Emmanuel Gobet & Martin Bompaire_.
+([see](MohammedAmine-Bennouna.github.io/SNA reaserch report.pdf)). _Advisors: with Yassine El Maazouz, Emmanuel Gobet & Martin Bompaire_.
 
 
 
