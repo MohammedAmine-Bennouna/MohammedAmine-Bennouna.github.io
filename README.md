@@ -9,8 +9,8 @@ Winner of Ecole Polytechnique's Grand Prize of research internship.
 ## Research Projects
 * [**On random minimal factorizations of large n-cycles**](Rapport_P2.pdf) ([see](Rapport_P2.pdf)), _with Yassine El Maazouz & Igor Kortchemski_.
 
-* [**Complexity of interior-point algorithms: tropical compuations**](Linear_Programming_and_Tropical_Geometry.pdf),([see] (Linear_Programming_and_Tropical_Geometry.pdf))
-with Yassine El Maazouz, Stéphane Gaubert & Xavier Allamigeon_.
+* [**Complexity of interior-point algorithms: tropical compuations**](Linear_Programming_and_Tropical_Geometry.pdf),([see](Linear_Programming_and_Tropical_Geometry.pdf))
+_with Yassine El Maazouz, Stéphane Gaubert & Xavier Allamigeon_.
 This work is the continuity of the following [paper](https://arxiv.org/abs/1708.01544).
  
 * [**Simulating rare events: Hawkes process applied to Twitter**](MohammedAmine-Bennouna.github.io/SNA reaserch report.pdf). 
