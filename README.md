@@ -1,15 +1,15 @@
 I am a first year Ph.D. student in Operations Research at the Massachusetts Institute of Technology. Prior to joining MIT, I graduated from [Ecole Polytechnique](https://en.wikipedia.org/wiki/%C3%89cole_Polytechnique) Majoring in Applied Mathematics and completed two years of preparatory program (CPGE) in [Lycée Louis-le-Grand](https://en.wikipedia.org/wiki/Lyc%C3%A9e_Louis-le-Grand).  
 
 ## Working papers
-* **Feature-based PAC learning of minimal representation of an MDP from transition data**, _with D. Pachamanova, Georgia Perakis, O. Skali Lami_.
+* **Feature-based PAC learning of minimal representation of an MDP from transition data**, _with Dessislava  Pachamanova, Georgia Perakis, Omar Skali Lami_.
  
 * **Near optimal tractable treshold policies for two-stage robust optimization problems**, (_Soon to be submitted_) _with Omar El Housni & Vineet Goyal_. 
 Winner of Ecole Polytechnique's Grand Prize of research internship.
 
 ## Research Projects
-* [**On random minimal factorizations of large n-cycles**](Rapport_P2.pdf) ([see](Rapport_P2.pdf)), _Advisor: Igor Kortchemski_.
+* [**On random minimal factorizations of large n-cycles**](Rapport_P2.pdf) ([see](Rapport_P2.pdf)), _with Igor Kortchemski_.
 
-* [**Complexity of interior-point algorithms: tropical compuations**](Linear_Programming_and_Tropical_Geometry.pdf),([see (Linear_Programming_and_Tropical_Geometry.pdf))
+* [**Complexity of interior-point algorithms: tropical compuations**](Linear_Programming_and_Tropical_Geometry.pdf),([see] (Linear_Programming_and_Tropical_Geometry.pdf))
 _Advisors: Stéphane Gaubert & Xavier Allamigeon_.
 This work is the continuity of the following [paper](https://arxiv.org/abs/1708.01544).
  
