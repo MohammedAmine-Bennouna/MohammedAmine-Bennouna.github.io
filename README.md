@@ -1,4 +1,4 @@
-I am a first year Ph.D. student in Operations Research at the Massachusetts Institute of Technology. Prior to joining MIT, I graduated from [Ecole Polytechnique](https://en.wikipedia.org/wiki/%C3%89cole_Polytechnique) Majoring in Applied Mathematics and completed two years of preparatory program (CPGE) in [Lycée Louis-le-Grand](https://en.wikipedia.org/wiki/Lyc%C3%A9e_Louis-le-Grand). You can find my [CV](MohammedAmine-Bennouna.github.io/Cv Academic Mohammed Amine Bennouna.pdf) here.    
+I am a first year Ph.D. student in Operations Research at the Massachusetts Institute of Technology. Prior to joining MIT, I graduated from [Ecole Polytechnique](https://en.wikipedia.org/wiki/%C3%89cole_Polytechnique) Majoring in Applied Mathematics and completed two years of preparatory program (CPGE) in [Lycée Louis-le-Grand](https://en.wikipedia.org/wiki/Lyc%C3%A9e_Louis-le-Grand).  
 
 ## Working papers
 * **Feature-based PAC learning of minimal representation of an MDP from transition data**, _with D. Pachamanova, Georgia Perakis, O. Skali Lami_.
