@@ -1,27 +1,19 @@
-I am a first year Ph.D. student in Operations Research at the Massachusetts Institute of Technology, advised by Prof. Georgia Perakis. Prior to joining MIT, I graduated from [Ecole Polytechnique](https://en.wikipedia.org/wiki/%C3%89cole_Polytechnique) Majoring in Applied Mathematics and completed two years of preparatory program (CPGE) in [Lycée Louis-le-Grand](https://en.wikipedia.org/wiki/Lyc%C3%A9e_Louis-le-Grand). You can find my [CV](MohammedAmine-Bennouna.github.io/Cv Academic Mohammed Amine Bennouna.pdf) here.    
+I am a first year Ph.D. student in Operations Research at the Massachusetts Institute of Technology. Prior to joining MIT, I graduated from [Ecole Polytechnique](https://en.wikipedia.org/wiki/%C3%89cole_Polytechnique) Majoring in Applied Mathematics and completed two years of preparatory program (CPGE) in [Lycée Louis-le-Grand](https://en.wikipedia.org/wiki/Lyc%C3%A9e_Louis-le-Grand). You can find my [CV](MohammedAmine-Bennouna.github.io/Cv Academic Mohammed Amine Bennouna.pdf) here.    
 
 ## Working papers
-* **Near-optimal Threshold Policies via Lifted Linear Decision Rules**, (_in progress_) _with Omar El Housni & Vineet Goyal_. **Winner of Ecole Polytechnique's Grand Prize of research internship**.
+* **Feature-based PAC learning of minimal representation of an MDP from transition data**, _with D. Pachamanova, Georgia Perakis, O. Skali Lami_.
+ 
+* **Near optimal tractable treshold policies for two-stage robust optimization problems **, (_Soon to be submitted_) _with Omar El Housni & Vineet Goyal_. Winner of Ecole Polytechnique's Grand Prize of research internship.
 
 ## Research Projects
-* [**On random minimal factorizations of large n-cycles**](Random_minimal_factorisations_of_large_n_cycles.pdf) ([report](Random_minimal_factorisations_of_large_n_cycles.pdf)), _Advisor: Igor Kortchemski_.
+* [**On random minimal factorizations of large n-cycles**](Rapport_P2.pdf) ([see](Rapport_P2.pdf)), _Advisor: Igor Kortchemski_.
 
-* [**Log-barrier interior point methods are not strongly polynomial**](MohammedAmine-Bennouna.github.io/Report - Experimental verification  log-barrier interior pointmethods are not strongly polynomial.pdf),([report](MohammedAmine-Bennouna.github.io/Report - Experimental verification  log-barrier interior pointmethods are not strongly polynomial.pdf))
+* [**Complexity of interior-point algorithms: tropical compuations**](Linear_Programming_and_Tropical_Geometry.pdf),([see (Linear_Programming_and_Tropical_Geometry.pdf))
 _Advisors: Stéphane Gaubert & Xavier Allamigeon_.
 This work is the continuity of the following [paper](https://arxiv.org/abs/1708.01544).
-  - Working on a counter-example of strong polynomial complexity.
-  - Extending the result for new barriers.
  
 * [**Simulating rare events: Hawkes process applied to Twitter**](MohammedAmine-Bennouna.github.io/SNA reaserch report.pdf). 
-([Hal report ref: hal-01875943](MohammedAmine-Bennouna.github.io/SNA reaserch report.pdf)). _Advisors: Emmanuel Gobet & Martin Bompaire_.
-  - Developed a Hawkes process model to describe the frequency of twitter messages.  
-  - Estimated rare event probability using Importance Sampling and Monte Carlo Methods.
-  - Estimated the model parameters using likelihood maximization.
-
-* [**Traﬃc ﬂow optimization**](https://github.com/MohammedAmine-Bennouna/Traffic-opt-Aimsun) ([Github codes](https://github.com/MohammedAmine-Bennouna/Traffic-opt-Aimsun))
-_Advisors: Flore Nabet & Aimsun_ 
-  - Implemented a simulation-based optimization algorithm that optimizes traﬃc ﬂow by adjusting traﬃc control devices.
-  - Combined approaches based on meta-models, queuing models and Aimsun traﬃc simulation
+([See](MohammedAmine-Bennouna.github.io/SNA reaserch report.pdf)). _Advisors: Emmanuel Gobet & Martin Bompaire_.
 
 
 
