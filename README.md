@@ -3,7 +3,7 @@ I am a first year Ph.D. student in Operations Research at the Massachusetts Inst
 ## Working papers
 * **Learning the Minimal Representation of a Dynamic System from Transition Data**, _with Dessislava  Pachamanova, Georgia Perakis, Omar Skali Lami_.
  INFORMs 2020 talk, November 9, session MD09.
- Sloan highligh: https://mitsloan.mit.edu/hsi/update-2019-hsi-research-projects
+ 
 * **Near optimal tractable treshold policies for two-stage robust optimization problems**, (_Soon to be submitted_) _with Omar El Housni & Vineet Goyal_. ([abstract](Extended_Affine_Abstract.pdf))
 Winner of Ecole Polytechnique's Grand Prize of research internship.
 
