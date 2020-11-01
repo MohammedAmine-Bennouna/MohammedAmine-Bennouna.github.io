@@ -1,7 +1,7 @@
 I am a first year Ph.D. student in Operations Research at the Massachusetts Institute of Technology. Prior to joining MIT, I graduated from [Ecole Polytechnique](https://en.wikipedia.org/wiki/%C3%89cole_Polytechnique) Majoring in Applied Mathematics and completed two years of preparatory program (CPGE) in [Lycée Louis-le-Grand](https://en.wikipedia.org/wiki/Lyc%C3%A9e_Louis-le-Grand).  
 
 ## Working papers
-* **Feature-based PAC learning of minimal representation of an MDP from transition data**, _with Dessislava  Pachamanova, Georgia Perakis, Omar Skali Lami_.
+* **Learning the Minimal Representation of a DynamicSystem from Transition Data**, _with Dessislava  Pachamanova, Georgia Perakis, Omar Skali Lami_.
  
 * **Near optimal tractable treshold policies for two-stage robust optimization problems**, (_Soon to be submitted_) _with Omar El Housni & Vineet Goyal_. ([abstract](Extended_Affine_Abstract.pdf))
 Winner of Ecole Polytechnique's Grand Prize of research internship.
