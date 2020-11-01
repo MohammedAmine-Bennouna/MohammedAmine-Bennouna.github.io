@@ -1,8 +1,9 @@
 I am a first year Ph.D. student in Operations Research at the Massachusetts Institute of Technology. Prior to joining MIT, I graduated from [Ecole Polytechnique](https://en.wikipedia.org/wiki/%C3%89cole_Polytechnique) Majoring in Applied Mathematics and completed two years of preparatory program (CPGE) in [Lycée Louis-le-Grand](https://en.wikipedia.org/wiki/Lyc%C3%A9e_Louis-le-Grand).  
 
 ## Working papers
-* **Learning the Minimal Representation of a DynamicSystem from Transition Data**, _with Dessislava  Pachamanova, Georgia Perakis, Omar Skali Lami_.
- 
+* **Learning the Minimal Representation of a Dynamic System from Transition Data**, _with Dessislava  Pachamanova, Georgia Perakis, Omar Skali Lami_.
+ INFORMs 2020 talk, November 9, session MD09.
+ Sloan highligh: https://mitsloan.mit.edu/hsi/update-2019-hsi-research-projects
 * **Near optimal tractable treshold policies for two-stage robust optimization problems**, (_Soon to be submitted_) _with Omar El Housni & Vineet Goyal_. ([abstract](Extended_Affine_Abstract.pdf))
 Winner of Ecole Polytechnique's Grand Prize of research internship.
 
@@ -15,7 +16,6 @@ This work is the continuity of the following [paper](https://arxiv.org/abs/1708.
  
 * [**Simulating rare events with Hawkes processes**](MohammedAmine-Bennouna.github.io/SNA reaserch report.pdf). 
 ([see](MohammedAmine-Bennouna.github.io/SNA reaserch report.pdf)). _Advisors: with Yassine El Maazouz, Emmanuel Gobet & Martin Bompaire_.
-
 
 
 ## For highschool students preparing IMO
